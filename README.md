@@ -1,6 +1,5 @@
 ### Hello there 👋
-My name is Leonid Noskov
-I'm studying Yandex-Practicum DS Bootcamp
+My name is Leonid Noskov  I'm studying Yandex-Practicum DS Bootcamp
 
 <!--
 **Lefantino/Lefantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
