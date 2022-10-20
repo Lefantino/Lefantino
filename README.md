@@ -13,7 +13,7 @@ ___
 
 ___
 Мои hard skills:
-```python```, ```pandas```, ```numpy```, ```scipy```, ```sklearn```, ```seaborn```, ```matplotlib```  
+```python``` ```pandas``` ```numpy``` ```scipy``` ```sklearn``` ```seaborn``` ```matplotlib```  
 ```SQL```
 
 Мои soft skills:
