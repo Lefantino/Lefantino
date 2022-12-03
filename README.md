@@ -21,7 +21,7 @@ ___
 
 ___
 Мои hard skills:  
-```python``` ```pandas``` ```numpy``` ```scipy``` ```sklearn``` ```seaborn``` ```matplotlib``` ```imblearn```  
+```python``` ```pandas``` ```numpy``` ```scipy``` ```sklearn``` ```seaborn``` ```matplotlib``` ```imblearn``` ```lightgmb``` ```catboost```
 ```SQL``` ```git```
 
 Мои soft skills:  
